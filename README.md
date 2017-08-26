@@ -48,6 +48,6 @@ interpreter.next();
 
 ```
 
-License
+## License
 
 Copyright © 2017, 戴天宇, Tianyu Dai (dtysky < dtysky@outlook.com >). All Rights Reserved. This project is free software and released under the MIT License.
